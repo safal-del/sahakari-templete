@@ -1,0 +1,17 @@
+.bimage1{
+    background-image: url("../../assets/images/happy1.jpg");
+    overflow: hidden;
+   
+    
+    
+}
+.bimage2{
+    background-image: url("../../assets/images/happy2.jpg");
+    overflow: hidden;
+
+}
+.bimage3{
+    background-image: url("../../assets/images/happy3.jpg");
+    overflow: hidden;
+
+}
